@@ -4,7 +4,7 @@ Systems Programming - Tracing Boundaries of Random Polygons
 FILES INCLUDED: boundaries.c, polygonDisplay.c, polygonDisplay.h, polygonSet.h, Makefile, README.md
 
 TO RUN C FILES, OPEN TERMINAL AND TYPE;
-  1.  
+  1.  make all
   2.  ./boundaries
   3.  DONE!
 
